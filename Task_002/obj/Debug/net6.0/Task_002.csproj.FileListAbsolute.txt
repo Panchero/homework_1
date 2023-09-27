@@ -1,0 +1,15 @@
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/bin/Debug/net6.0/Task_002
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/bin/Debug/net6.0/Task_002.deps.json
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/bin/Debug/net6.0/Task_002.runtimeconfig.json
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/bin/Debug/net6.0/Task_002.dll
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/bin/Debug/net6.0/Task_002.pdb
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.csproj.AssemblyReference.cache
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.AssemblyInfoInputs.cache
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.AssemblyInfo.cs
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.csproj.CoreCompileInputs.cache
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.dll
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/refint/Task_002.dll
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.pdb
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/Task_002.genruntimeconfig.cache
+/Users/semenpancenko/Documents/GB/C#/Homeworks/Task_002/obj/Debug/net6.0/ref/Task_002.dll
