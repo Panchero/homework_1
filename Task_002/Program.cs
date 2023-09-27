@@ -5,7 +5,7 @@ a = -9 b = -3 -> max = -3
 */
 
 Console.Clear();
-Console.WriteLine("Введите два числа и программа проверит является ли первое число квадратом второго");
+Console.WriteLine("Введите два числа и программа проверит какое число больше");
 Console.Write("Введите первое число: ");
 int a = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите второе число: ");
